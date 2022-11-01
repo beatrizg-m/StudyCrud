@@ -1,0 +1,24 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-App<aula6>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "br.org.cesar.App",
+            "projectName": "aula6",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        },
+        {
+            "type": "java",
+            "name": "Spring Boot-Aula5Application<aula6>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "br.org.cesar.Aula5Application",
+            "projectName": "aula6",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
